@@ -2,7 +2,9 @@
  Python version of Basic Computer Games by David Ahl
 
 Basic COmputer Games is a book published in 1978.
+https://www.atariarchives.org/basicgames/
 A second book, More Basic Computer Games was published in 1979
+https://www.atariarchives.org/morebasicgames/
 
 These two books were a compilation of programs written in the BASIC language, originally published in the magazine, Creative Computing.
 
